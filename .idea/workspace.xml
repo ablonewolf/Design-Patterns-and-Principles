@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eef65de-a3c8-4bc0-9507-5130b99210da" name="Changes" comment="Added Adapter pattern codes">
-      <change afterPath="$PROJECT_DIR$/src/com/arka99/designpatterns/bridge/AirConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arka99/designpatterns/bridge/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arka99/designpatterns/bridge/RemoteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arka99/designpatterns/bridge/SharpAC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arka99/designpatterns/bridge/SingerAC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arka99/designpatterns/bridge/ACController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arka99/designpatterns/bridge/ACController.java" afterDir="false" />
-    </list>
+    <list default="true" id="0eef65de-a3c8-4bc0-9507-5130b99210da" name="Changes" comment="Added Adapter pattern codes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/media/Main-Volume/courses/Udemy courses/Design patterns in Java/Design Pattern Codes/Desing-Patterns",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers"
   }
 }]]></component>
@@ -132,6 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653852688756</updated>
       <workItem from="1653852690533" duration="13022000" />
+      <workItem from="1665210911625" duration="84000" />
     </task>
     <task id="LOCAL-00001" summary="Added singleton codes">
       <created>1653858529433</created>
