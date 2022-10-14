@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10c88466-f4d2-4deb-8414-6cf02d40730d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DesignPatterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/All Deisgn Patterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/abstractfactory/AppMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/abstractfactory/BurgerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/abstractfactory/CheesePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/abstractfactory/ChesseBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/abstractfactory/ChickenBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/abstractfactory/ChickenPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/abstractfactory/PizzaFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/abstractfactory/Snack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/abstractfactory/SnackFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/abstractfactory/SnackMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/adapter/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/adapter/Antelope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/adapter/AppMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/adapter/MosquitoAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/adapter/Mosquitto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/adapter/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/adapter/SnakeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/adapter/Tiger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/bridge/ACController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/bridge/AirConditioner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/bridge/AppMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/bridge/RemoteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/bridge/SharpAC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/bridge/SingerAC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/builder/AppMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/builder/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/factory/AppMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/factory/Quadraliteral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/singleton/AppMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/singleton/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/arka99/designpatterns/singleton/DatabaseConnector.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2G7QsaHJ9EvC30KPFuqokvCnWnN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/media/Volume1/Arka/Design Patterns/Desing-Patterns/All Deisgn Patterns/Design Patterns"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10c88466-f4d2-4deb-8414-6cf02d40730d" name="Changes" comment="" />
+      <created>1665737349323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665737349323</updated>
+      <workItem from="1665737350545" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
