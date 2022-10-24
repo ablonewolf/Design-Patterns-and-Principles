@@ -2,58 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24dd3a71-3ee5-4267-9aa0-e3e8c6f0a6cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/ActionMovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/BollywoodActionMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/BollywoodComedyMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/BollywoodMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/ComedyMovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/HollywoodActionMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/HollywoodComedyMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/HollywoodMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/MovieFactory/MovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/AbstractFactoryMethod/ShapeAndColorFactory/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/AbstractCreator/AbstractShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/AbstractCreator/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/AbstractCreator/CircleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/AbstractCreator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/AbstractCreator/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/AbstractCreator/RectangleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/AbstractCreator/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/AbstractCreator/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/AbstractCreator/SquareFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/Challenge/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/Challenge/AnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/Challenge/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/Challenge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/Challenge/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/Challenge/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/ConcreteCreator/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/ConcreteCreator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/ConcreteCreator/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/ConcreteCreator/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/ConcreteCreator/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/ConcreteCreator/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/StaticMethodCreator/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/StaticMethodCreator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/StaticMethodCreator/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/StaticMethodCreator/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/StaticMethodCreator/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/FactoryMethod/StaticMethodCreator/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/BillPughApproach/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/BillPughApproach/TestSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/ChallengeCaptainProblem/Captain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/ChallengeCaptainProblem/SelectCaptain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/DoubleCheckedLockingPrinciple/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/DoubleCheckedLockingPrinciple/TestSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/EagerEvaluationApproach/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/EagerEvaluationApproach/TestSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/LazyEvaluationApproach/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/LazyEvaluationApproach/TestSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/SynchronizedMethod/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/Singleton/SynchronizedMethod/TestSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +47,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/arkabhuiyan11512/BJIT/Mochida Pharmacy/Mochida_Signature_Generator&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -95,13 +56,13 @@
       <recent name="CreationalPatterns.FactoryMethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreationalPatterns.AbstractFactoryMethod.MovieFactory.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.FactoryMethod.ConcreteCreator.Client" />
+  <component name="RunManager" selected="Application.SelectCaptain">
+    <configuration name="CreationalPatterns.Singleton.BillPughApproach.TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.BillPughApproach.TestSingleton" />
       <module name="Design Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPatterns.FactoryMethod.ConcreteCreator.*" />
+          <option name="PATTERN" value="CreationalPatterns.Singleton.BillPughApproach.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreationalPatterns.AbstractFactoryMethod.MovieFactory.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.AbstractFactoryMethod.MovieFactory.Client" />
+    <configuration name="CreationalPatterns.Singleton.DoubleCheckedLockingPrinciple.TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.DoubleCheckedLockingPrinciple.TestSingleton" />
       <module name="Design Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPatterns.AbstractFactoryMethod.MovieFactory.*" />
+          <option name="PATTERN" value="CreationalPatterns.Singleton.DoubleCheckedLockingPrinciple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreationalPatterns.AbstractFactoryMethod.ShapeAndColorFactory.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.AbstractFactoryMethod.ShapeAndColorFactory.Client" />
+    <configuration name="CreationalPatterns.Singleton.EagerEvaluationApproach.TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.EagerEvaluationApproach.TestSingleton" />
       <module name="Design Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPatterns.AbstractFactoryMethod.ShapeAndColorFactory.*" />
+          <option name="PATTERN" value="CreationalPatterns.Singleton.EagerEvaluationApproach.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreationalPatterns.FactoryMethod.Challenge.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.FactoryMethod.Challenge.Client" />
+    <configuration name="CreationalPatterns.Singleton.SynchronizedMethod.TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.SynchronizedMethod.TestSingleton" />
       <module name="Design Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPatterns.FactoryMethod.Challenge.*" />
+          <option name="PATTERN" value="CreationalPatterns.Singleton.SynchronizedMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreationalPatterns.FactoryMethod.StaticMethodCreator.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.FactoryMethod.StaticMethodCreator.Client" />
+    <configuration name="SelectCaptain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.ChallengeCaptainProblem.SelectCaptain" />
       <module name="Design Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPatterns.FactoryMethod.StaticMethodCreator.*" />
+          <option name="PATTERN" value="CreationalPatterns.Singleton.ChallengeCaptainProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreationalPatterns.AbstractFactoryMethod.MovieFactory.Client" />
-        <item itemvalue="Application.CreationalPatterns.AbstractFactoryMethod.ShapeAndColorFactory.Client" />
-        <item itemvalue="Application.CreationalPatterns.FactoryMethod.Challenge.Client" />
-        <item itemvalue="Application.CreationalPatterns.FactoryMethod.StaticMethodCreator.Client" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.SelectCaptain" />
+        <item itemvalue="Application.CreationalPatterns.Singleton.BillPughApproach.TestSingleton" />
+        <item itemvalue="Application.CreationalPatterns.Singleton.EagerEvaluationApproach.TestSingleton" />
+        <item itemvalue="Application.CreationalPatterns.Singleton.DoubleCheckedLockingPrinciple.TestSingleton" />
+        <item itemvalue="Application.CreationalPatterns.Singleton.SynchronizedMethod.TestSingleton" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +142,10 @@
       <updated>1665737635713</updated>
       <workItem from="1665737636909" duration="618000" />
       <workItem from="1666000096534" duration="6584000" />
-      <workItem from="1666069893337" duration="8272000" />
+      <workItem from="1666069893337" duration="11769000" />
+      <workItem from="1666159947051" duration="612000" />
+      <workItem from="1666257861819" duration="1754000" />
+      <workItem from="1666580269525" duration="5920000" />
     </task>
     <servers />
   </component>
