@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24dd3a71-3ee5-4267-9aa0-e3e8c6f0a6cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/Bottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/ChickenBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/Coke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/ColdDrinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/MealBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/NonVegMealBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/Packing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/Pepsi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/VegBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/VegMealBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/MealBuilder/Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/VehicleBuilder/BuilderInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/VehicleBuilder/CarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/VehicleBuilder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/VehicleBuilder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/VehicleBuilder/MotorcycleBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/BuilderPattern/VehicleBuilder/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/ShapePrototypes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/ShapePrototypes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/ShapePrototypes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/ShapePrototypes/ShapeCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/ShapePrototypes/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,21 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/arkabhuiyan11512/Downloads/DemoApp"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/arkabhuiyan11512/Downloads/DemoApp&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="CreationalPatterns.FactoryMethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreationalPatterns.BuilderPattern.MealBuilder.Client">
+  <component name="RunManager" selected="Application.CreationalPatterns.PrototypePattern.ShapePrototypes.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CreationalPatterns.BuilderPattern.VehicleBuilder.Client" />
       <module name="Design Patterns" />
@@ -95,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreationalPatterns.Singleton.BillPughApproach.TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.BillPughApproach.TestSingleton" />
+    <configuration name="CreationalPatterns.PrototypePattern.ShapePrototypes.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.PrototypePattern.ShapePrototypes.Client" />
       <module name="Design Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPatterns.Singleton.BillPughApproach.*" />
+          <option name="PATTERN" value="CreationalPatterns.PrototypePattern.ShapePrototypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreationalPatterns.Singleton.EagerEvaluationApproach.TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.EagerEvaluationApproach.TestSingleton" />
+    <configuration name="CreationalPatterns.Singleton.BillPughApproach.TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.BillPughApproach.TestSingleton" />
       <module name="Design Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPatterns.Singleton.EagerEvaluationApproach.*" />
+          <option name="PATTERN" value="CreationalPatterns.Singleton.BillPughApproach.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreationalPatterns.PrototypePattern.ShapePrototypes.Client" />
         <item itemvalue="Application.CreationalPatterns.BuilderPattern.MealBuilder.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.SelectCaptain" />
         <item itemvalue="Application.CreationalPatterns.Singleton.BillPughApproach.TestSingleton" />
-        <item itemvalue="Application.CreationalPatterns.Singleton.EagerEvaluationApproach.TestSingleton" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +148,7 @@
       <workItem from="1667299402163" duration="618000" />
       <workItem from="1667358098877" duration="607000" />
       <workItem from="1667378265433" duration="10528000" />
+      <workItem from="1667775946189" duration="2119000" />
     </task>
     <servers />
   </component>
