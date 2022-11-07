@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24dd3a71-3ee5-4267-9aa0-e3e8c6f0a6cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/ShapePrototypes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/ShapePrototypes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/ShapePrototypes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/ShapePrototypes/ShapeCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/ShapePrototypes/Square.java" afterDir="false" />
+    <list default="true" id="24dd3a71-3ee5-4267-9aa0-e3e8c6f0a6cf" name="Changes" comment="Implemeted Builder Pattern using two examples, vehicle and meal">
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/CarPrototypes/BasicCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/CarPrototypes/CarCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/CarPrototypes/CarPrototypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/CarPrototypes/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/CarPrototypes/Toyota.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,20 @@
       <recent name="CreationalPatterns.FactoryMethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreationalPatterns.PrototypePattern.ShapePrototypes.Client">
+  <component name="RunManager" selected="Application.CarPrototypeDemo">
+    <configuration name="CarPrototypeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.PrototypePattern.CarPrototypes.CarPrototypeDemo" />
+      <module name="Design Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPatterns.PrototypePattern.CarPrototypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CreationalPatterns.BuilderPattern.VehicleBuilder.Client" />
       <module name="Design Patterns" />
@@ -90,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreationalPatterns.Singleton.BillPughApproach.TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.BillPughApproach.TestSingleton" />
-      <module name="Design Patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CreationalPatterns.Singleton.BillPughApproach.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SelectCaptain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.ChallengeCaptainProblem.SelectCaptain" />
       <module name="Design Patterns" />
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarPrototypeDemo" />
         <item itemvalue="Application.CreationalPatterns.PrototypePattern.ShapePrototypes.Client" />
         <item itemvalue="Application.CreationalPatterns.BuilderPattern.MealBuilder.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.SelectCaptain" />
-        <item itemvalue="Application.CreationalPatterns.Singleton.BillPughApproach.TestSingleton" />
       </list>
     </recent_temporary>
   </component>
