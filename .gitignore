@@ -15,6 +15,7 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -27,3 +28,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+### All Directories in the .idea directory###
+/All Deisgn Patterns/Design Patterns/.idea/
