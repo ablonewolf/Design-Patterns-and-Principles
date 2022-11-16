@@ -14,7 +14,8 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+# the idea directory
+All Deisgn Patterns/Design Patterns/.idea/
 
 ### NetBeans ###
 /nbproject/private/
