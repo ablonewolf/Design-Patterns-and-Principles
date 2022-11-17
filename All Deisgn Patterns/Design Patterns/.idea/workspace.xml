@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24dd3a71-3ee5-4267-9aa0-e3e8c6f0a6cf" name="Changes" comment="Implemeted Builder Pattern using two examples, vehicle and meal">
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/CarPrototypes/BasicCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/CarPrototypes/CarCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/CarPrototypes/CarPrototypeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/CarPrototypes/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalPatterns/PrototypePattern/CarPrototypes/Toyota.java" afterDir="false" />
+    <list default="true" id="24dd3a71-3ee5-4267-9aa0-e3e8c6f0a6cf" name="Changes" comment="Implemented Prototype Pattern using shapes and shapecaching.">
+      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/AdapterPattern/TurkeyDuckProblem/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/AdapterPattern/TurkeyDuckProblem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/AdapterPattern/TurkeyDuckProblem/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/AdapterPattern/TurkeyDuckProblem/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/AdapterPattern/TurkeyDuckProblem/TurkeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralPatterns/AdapterPattern/TurkeyDuckProblem/WildTurkey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -50,7 +52,7 @@
       <recent name="CreationalPatterns.FactoryMethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarPrototypeDemo">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CarPrototypeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CreationalPatterns.PrototypePattern.CarPrototypes.CarPrototypeDemo" />
       <module name="Design Patterns" />
@@ -103,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectCaptain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.ChallengeCaptainProblem.SelectCaptain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralPatterns.AdapterPattern.TurkeyDuckProblem.Main" />
       <module name="Design Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalPatterns.Singleton.ChallengeCaptainProblem.*" />
+          <option name="PATTERN" value="StructuralPatterns.AdapterPattern.TurkeyDuckProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.CarPrototypeDemo" />
         <item itemvalue="Application.CreationalPatterns.PrototypePattern.ShapePrototypes.Client" />
         <item itemvalue="Application.CreationalPatterns.BuilderPattern.MealBuilder.Client" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.SelectCaptain" />
       </list>
     </recent_temporary>
   </component>
