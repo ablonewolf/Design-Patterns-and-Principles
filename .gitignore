@@ -14,8 +14,6 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-# the idea directory
-All Deisgn Patterns/Design Patterns/.idea/
 
 ### NetBeans ###
 /nbproject/private/
@@ -30,4 +28,4 @@ All Deisgn Patterns/Design Patterns/.idea/
 ### Mac OS ###
 .DS_Store
 ### All Directories in the .idea directory###
-/All Deisgn Patterns/Design Patterns/.idea/
+/All Deisgn Patterns/Design Patterns/.idea/**
