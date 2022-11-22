@@ -1,4 +1,4 @@
-package StructuralPatterns.CompositePattern.EmployeeManagement;
+package StructuralPatterns.CompositePattern.EmployeeDirectory;
 
 public class Company {
     public static void main(String[] args) {

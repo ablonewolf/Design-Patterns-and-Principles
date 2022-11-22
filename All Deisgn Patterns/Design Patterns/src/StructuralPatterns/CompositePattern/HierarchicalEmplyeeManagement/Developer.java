@@ -1,6 +1,7 @@
-package StructuralPatterns.CompositePattern.EmployeeManagement;
+package StructuralPatterns.CompositePattern.HierarchicalEmplyeeManagement;
 
-public class Developer implements Employee{
+
+public class Developer implements Employee {
 
     private String name;
     private long employeeId;

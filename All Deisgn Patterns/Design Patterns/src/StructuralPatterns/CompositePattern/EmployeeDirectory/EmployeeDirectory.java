@@ -1,4 +1,4 @@
-package StructuralPatterns.CompositePattern.EmployeeManagement;
+package StructuralPatterns.CompositePattern.EmployeeDirectory;
 
 import java.util.ArrayList;
 import java.util.Arrays;
