@@ -21,27 +21,24 @@ public class RobotFactory {
         }
         else {
             switch (robotCategory.toLowerCase()) {
-                case "small":
-                {
+                case "small" -> {
                     System.out.println("We don't have small robot right now. So we are creating one for you.");
                     Robot smallRobot = new SmallRobot();
-                    robots.put("small",smallRobot);
+                    robots.put("small", smallRobot);
                     break;
                 }
-                case "large":
-                {
+                case "large" -> {
                     System.out.println("We don't have large robots right now. So we are creating one for you.");
                     Robot largeRobot = new LargeRobot();
-                    robots.put("large",largeRobot);
+                    robots.put("large", largeRobot);
                     break;
                 }
-                default:
-                    System.out.println("We can only create Small and large Robots");;
+                default -> {
+                    System.out.println("We can only create Small and large Robots");
+
+                }
             }
         }
         return robot;
-    }
-    public Map<String,Robot> getRobots() {
-        return this.robots;
     }
 }
