@@ -1,18 +1,34 @@
 package DesignPatterns.CreationalPatterns.BuilderPattern.MealBuilder;
 
-public class VegMealBuilder implements MealBuilder{
-    private Meal meal = new Meal();
+import java.util.Objects;
+
+public class VegMealBuilder implements MealBuilder {
+    private Meal meal;
+
     @Override
-    public void buildBurger() {
-        Burger vegBurger = new VegBurger("Vegetable Burger",35);
-        System.out.println("adding burger");
-        this.meal.addItem(vegBurger);
+    public void initiateMeal() {
+        this.meal = new Meal();
+    }
+
+    @Override
+    public void prepareBurger() {
+        if (Objects.nonNull(this.meal)) {
+            Burger vegBurger = new VegBurger("Vegetable Burger", 35);
+            System.out.println("adding burger");
+            this.meal.addItem(vegBurger);
+        } else {
+            System.out.println("Please initiate the meal first.");
+        }
     }
 
     @Override
     public void addDrink(ColdDrinks drinks) {
-        System.out.println("adding colddrinks");
-        this.meal.addItem(drinks);
+        if (Objects.nonNull(this.meal)) {
+            System.out.println("adding cold drinks");
+            this.meal.addItem(drinks);
+        } else {
+            System.out.println("Please initiate the meal first.");
+        }
     }
 
     @Override

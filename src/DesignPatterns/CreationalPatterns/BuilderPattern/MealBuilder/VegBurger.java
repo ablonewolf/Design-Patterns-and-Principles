@@ -1,8 +1,8 @@
 package DesignPatterns.CreationalPatterns.BuilderPattern.MealBuilder;
 
-public class VegBurger extends Burger{
-    private String name;
-    private float price;
+public class VegBurger extends Burger {
+    private final String name;
+    private final float price;
 
     public VegBurger(String name, float price) {
         this.name = name;

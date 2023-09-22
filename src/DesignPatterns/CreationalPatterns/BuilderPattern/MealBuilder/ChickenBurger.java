@@ -1,8 +1,8 @@
 package DesignPatterns.CreationalPatterns.BuilderPattern.MealBuilder;
 
-public class ChickenBurger extends Burger{
-    private String name;
-    private float price;
+public class ChickenBurger extends Burger {
+    private final String name;
+    private final float price;
 
     public ChickenBurger(String name, float price) {
         this.name = name;

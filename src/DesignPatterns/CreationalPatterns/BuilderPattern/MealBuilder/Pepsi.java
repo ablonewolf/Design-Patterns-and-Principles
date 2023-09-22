@@ -1,8 +1,8 @@
 package DesignPatterns.CreationalPatterns.BuilderPattern.MealBuilder;
 
-public class Pepsi extends ColdDrinks{
-    private String name;
-    private float price;
+public class Pepsi extends ColdDrinks {
+    private final String name;
+    private final float price;
 
     public Pepsi(String name, float price) {
         this.name = name;
