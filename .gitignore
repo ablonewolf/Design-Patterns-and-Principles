@@ -25,16 +25,10 @@ bin/
 ### VS Code ###
 .vscode/
 
+### IDEA directory ###
+.idea/
+
 ### Mac OS ###
 .DS_Store
-### All Directories in the .idea directory###
-/All Deisgn Patterns/Design Patterns/.idea/**
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/vcs.xml
-/.idea/Desing-Patterns.iml
-/.idea/checkstyle-idea.xml
-/Design Principles/Design Principles.iml
-/All Deisgn Patterns/All Deisgn Patterns.iml
-/.idea/.gitignore
+### ALL IML Files ###
+*.iml
