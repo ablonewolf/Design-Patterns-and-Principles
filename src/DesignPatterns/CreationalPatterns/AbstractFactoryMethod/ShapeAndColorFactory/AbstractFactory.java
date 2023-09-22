@@ -2,5 +2,6 @@ package DesignPatterns.CreationalPatterns.AbstractFactoryMethod.ShapeAndColorFac
 
 public abstract class AbstractFactory {
     abstract Color getColor(String colorName);
+
     abstract Shape getShape(String shapeType);
 }
