@@ -1,7 +1,8 @@
 package DesignPatterns.CreationalPatterns.AbstractFactoryMethod.MovieFactory;
 
-public class BollywoodComedyMovie implements BollywoodMovie{
+public class BollywoodComedyMovie implements BollywoodMovie {
     private String name;
+
     @Override
     public String getName() {
         return this.name;

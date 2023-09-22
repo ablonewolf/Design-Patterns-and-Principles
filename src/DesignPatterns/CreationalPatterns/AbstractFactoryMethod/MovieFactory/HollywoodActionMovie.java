@@ -1,6 +1,6 @@
 package DesignPatterns.CreationalPatterns.AbstractFactoryMethod.MovieFactory;
 
-public class HollywoodActionMovie implements HollywoodMovie{
+public class HollywoodActionMovie implements HollywoodMovie {
     private String name;
 
     @Override

@@ -1,7 +1,8 @@
 package DesignPatterns.CreationalPatterns.AbstractFactoryMethod.MovieFactory;
 
-public class BollywoodActionMovie implements BollywoodMovie{
+public class BollywoodActionMovie implements BollywoodMovie {
     private String name;
+
     @Override
     public String getName() {
         return this.name;
@@ -14,6 +15,6 @@ public class BollywoodActionMovie implements BollywoodMovie{
 
     @Override
     public void setName(String name) {
-        this.name =  name;
+        this.name = name;
     }
 }

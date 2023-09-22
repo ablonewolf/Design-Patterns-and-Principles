@@ -1,7 +1,8 @@
 package DesignPatterns.CreationalPatterns.AbstractFactoryMethod.MovieFactory;
 
-public class HollywoodComedyMovie implements HollywoodMovie{
+public class HollywoodComedyMovie implements HollywoodMovie {
     private String name;
+
     @Override
     public String getName() {
         return this.name;

@@ -1,16 +1,13 @@
 package DesignPatterns.CreationalPatterns.AbstractFactoryMethod.MovieFactory;
 
-public class ComedyMovieFactory extends MovieFactory{
+public class ComedyMovieFactory extends MovieFactory {
     @Override
     public Movie getMovie(String type) {
-        switch (type.toLowerCase()) {
-            case "hollywood" :
-                return new HollywoodComedyMovie();
-            case "bollywood" :
-                return new BollywoodComedyMovie();
-            default:
-                return null;
-        }
+        return switch (type.toLowerCase()) {
+            case "hollywood" -> new HollywoodComedyMovie();
+            case "bollywood" -> new BollywoodComedyMovie();
+            default -> null;
+        };
 
     }
 }
