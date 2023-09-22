@@ -1,7 +1,14 @@
 package DesignPatterns.CreationalPatterns.BuilderPattern.VehicleBuilder;
 
-public class CarBuilder implements BuilderInterface{
-    private Vehicle car = new Vehicle();
+public class CarBuilder implements BuilderInterface {
+    private Vehicle car;
+
+    @Override
+    public void initiateVehicle() {
+        this.car = new Vehicle();
+        System.out.println("A new car is being created.");
+    }
+
     @Override
     public void buildBody() {
         car.add("This is a body of car.");

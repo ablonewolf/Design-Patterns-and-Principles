@@ -1,7 +1,14 @@
 package DesignPatterns.CreationalPatterns.BuilderPattern.VehicleBuilder;
 
-public class MotorcycleBuilder implements BuilderInterface{
-    private Vehicle motorCycle = new Vehicle();
+public class MotorcycleBuilder implements BuilderInterface {
+    private Vehicle motorCycle;
+
+    @Override
+    public void initiateVehicle() {
+        this.motorCycle = new Vehicle();
+        System.out.println("A new motorcycle is being created.");
+    }
+
     @Override
     public void buildBody() {
         motorCycle.add("This is the body of a motorcycle.");
